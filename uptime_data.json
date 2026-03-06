@@ -1,0 +1,37 @@
+[
+    {
+        "url": "https://www.wikipedia.org",
+        "status": "Online",
+        "time": "09:51:57"
+    },
+    {
+        "url": "https://offline-test-domain-12345.com",
+        "status": "Offline",
+        "time": "09:52:06"
+    },
+    {
+        "url": "https://httpstat.us/404",
+        "status": "Offline",
+        "time": "09:52:13"
+    },
+    {
+        "url": "https://httpstat.us/404",
+        "status": "Offline",
+        "time": "09:52:53"
+    },
+    {
+        "url": "https://httpstat.us/500",
+        "status": "Offline",
+        "time": "09:53:05"
+    },
+    {
+        "url": "https://reqres.in/api/unknown/23",
+        "status": "Client Error",
+        "time": "09:53:50"
+    },
+    {
+        "url": "https://httpbin.org/status/500",
+        "status": "Server Error",
+        "time": "09:54:10"
+    }
+]
